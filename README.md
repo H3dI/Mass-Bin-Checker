@@ -1,3 +1,3 @@
 # Mass Bin Checker
 
-Script criado para automatizar a checagem de determinadas bin
+Script criado para automatizar a checagem de determinadas bin de credit card
