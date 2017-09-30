@@ -47,7 +47,8 @@ my $Save;
 			  "--help [Ajuda com os comandos]\n".
 			  "--list [Seleciona sua lista de bin a ser checada]\n".
 			  "--save [Onde as bins serao salvas]\n".
-			  "       [Default: bin_list.txt]\n\n".
+			  "       [Default: bin_list.txt]\n".
+			  "Lembrete: O split padrao e [ ; ]\n\n".
 			  "[!] Exemplos:\n".
 			  "perl $0 --list list.txt --save bins_check.txt\n".
 			  "perl $0 --bin 553624\n";
