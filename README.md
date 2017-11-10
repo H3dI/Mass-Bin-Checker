@@ -23,7 +23,7 @@ Coder: v4p0r
 Team: Yunkers Crew && BRLZ PoC
 Twitter: 0x777nullSkype: drx.priv
 
-Usage: perl t.pl --help
+Usage: perl mBin.pl --help
 
 ```
 
@@ -35,7 +35,7 @@ $ perl mBin.pl --help
         Mass Bin Checker
 ================================
 
-Usage: t.pl [comando]
+Usage: mBin.pl [comando]
 [+] Comandos:
 --bin  [Checa apenas 1 bin]
 --help [Ajuda com os comandos]
@@ -45,8 +45,8 @@ Usage: t.pl [comando]
 Lembrete: O split padrao e [ ; ]
 
 [!] Exemplos:
-perl t.pl --list list.txt --save bins_check.txt
-perl t.pl --bin 553624
+perl mBin.pl --list list.txt --save bins_check.txt
+perl mBin.pl --bin 553624
 
 ```
 
