@@ -50,11 +50,6 @@ perl t.pl --bin 553624
 
 ```
 
-
-### Example one bin check:
-
-[![asciicast](https://asciinema.org/a/T1GiLbZtbA6Lb9Z1D6lUmILk9.png)](https://asciinema.org/a/T1GiLbZtbA6Lb9Z1D6lUmILk9)
-
-### Exemple all bins check:
+### Exemple Script Video:
 
 - https://www.youtube.com/watch?v=EB7WZ5e2t_A
